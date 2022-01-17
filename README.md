@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Arash
 - 👀 I’m interested in New Things
-- 🌱 I’m currently learning Ruby
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently Trying to survive
 - 📫 arashzomorrodio24@gmail.com
 
 <!---
